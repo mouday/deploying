@@ -1,5 +1,7 @@
 # Deploying
 
+deploy code by ssh command
+
 install
 ```
 npm i deploying -g

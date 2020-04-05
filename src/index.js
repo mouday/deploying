@@ -30,7 +30,7 @@ program
     .command('run [name]')
     .description('run a deploy command by config')
     .action((name) => {
-        console.log(name);
+        // console.log(name);
         if (name) {
             runDeploy(name)
         } else {
