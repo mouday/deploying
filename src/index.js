@@ -8,8 +8,7 @@ const fs = require('fs');
 const path = require('path');
 const runDeploy = require('./deploy')
 
-
-program.version('1.0.0')
+program.version('1.0.3')
 
 program
     .command('init')
